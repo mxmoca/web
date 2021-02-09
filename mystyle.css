@@ -1,21 +1,21 @@
-body {
+body{
   background-color: ivory;
   border: medium solid green;
 }
 
-h1 {
+h1{
 font-family: 'Courier New', monospace;
 }
 
-h2 {
+h2{
   color: slategray;
   font-family: 'Georgia', serif;
 }
 
-li {
+li{
   color: lightslategray;
 }
 
-p {
+p{
   color: dimgray;
 }
