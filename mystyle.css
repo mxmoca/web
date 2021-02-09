@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  border: medium solid green;
+}
+
+h1 {
+font-family: 'Courier New', monospace;
+}
+
+h2 {
+  color: slategray;
+  font-family: 'Georgia', serif;
+}
+
+li {
+  color: lightslategray;
+}
+
+p {
+  color: dimgray;
+}
