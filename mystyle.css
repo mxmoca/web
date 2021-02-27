@@ -55,13 +55,11 @@ width: 400px;
 }
 
 img#piece{
-  float: left;
+  
   width: 100px;
  height: 180px;
  border: solid #663300;
- margin-right:40px;
-    margin-left: auto;
-    display:block;
+ 
 }
 
 
