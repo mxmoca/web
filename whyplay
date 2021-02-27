@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<html>
+  <head>
+   <title>site.html</title>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+  
+<body>
+<link rel="stylesheet" href="mystyle.css">
+<h1> ♙ ♘ ♗ ♖ ♕ ♔ Chess ♚ ♛ ♜ ♝ ♞ ♟</h1>
+<div class="topnav">
+<a href="https://mxmoca.github.io/web/site.html">What is chess?</a>
+  <a href="https://mxmoca.github.io/web/pieces.html">Chess Pieces</a>
+  <a href="https://mxmoca.github.io/web/basics.html">Basics</a>
+  <a href="https://mxmoca.github.io/web/importantpeople.html">People to Know</a>
+  <a class="active" href="https://mxmoca.github.io/web/whyplay.html">Why Play</a>
+  <a href="https://mxmoca.github.io/web/nextsteps.html">Next Steps</a>
+</div>
+
+<a href="https://www.healthline.com/health/benefits-of-playing-chess"<li><h2 id="s1">Why Play?</h2></a>
+
+ <img id="sitepic" src="https://media3.giphy.com/media/JuUWDI13JB0XK/200.gif" alt="geri's game" />
+    <ul>  
+        <ul>
+         <p3>
+          I will be honest; I have been playing chess for more than 10 years and it is stressful.
+		  It is sometimes hard to imporve and it is not rare to have a losing or drawing streak,<br>
+		  which can be discouraging especially with the ammount of competition in the game. 
+		  So why even bother playing chess? The amount of focus required is good practice <br> for 
+		  other things in your life that may require immense concentration and practice. It is also
+		  proven to improve intelligence, memory, and focus. It can be either just be a <br> hobby or a serious
+activity. Of course, competing will require more effort and is more costly, it is fun and I recommend it if you have the time.		 
+<br>
+<br>
+<img id="sitepic" src="https://media4.giphy.com/media/WwbmjTK5TS87e/200.gif" alt="cute animals" />
+<br>
+<br>
+
+In every chess game, you play you are faced with challenges and problems that you have to solve 
+		   in order to play your best game. Chess can help you to think ahead,<br> not rush your decisions, and weigh 
+		   the pluses and minuses of your choices. 
+		  </p3>
+        </ul>
+    </li>
+</body>
+</html>
