@@ -60,6 +60,13 @@ img#piece{
  
 }
 
+img#center {
+width: 400px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid #663300;
+}
 
 figure#fork{
 	float: right;
