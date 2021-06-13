@@ -1,0 +1,33 @@
+body{
+  	background-color: #ffe6b3;
+  	border: black;
+}
+h1{
+  	font-family: Helvetica;
+  	text-align: center;
+  	font-size: 60px;
+}
+h2{
+	color: #b30000;
+  	font-family: Helvetica;
+  	text-align: center;
+}
+h3{
+color: #b30000;
+  font-family: Helvetica;
+}
+li{
+ 	color: black;
+  	font-weight: bold;
+}
+p{
+  margin-right: 40px;
+}
+img#sitepic {
+	width: 400px;
+ 	height: 200px;
+ 	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	border: solid #663300;
+}
